@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+main {
+  background: #212529;
+  height: 100vh;
+  width: auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 10em;
+  padding-top: 2em
+}
+
+.red-h1 {
+  color: #FF4400;
+
+}
+
+a {
+  text-decoration: none;
+  color: #FF4400;
+}
+
+
